@@ -8,9 +8,9 @@ Kpi developer , dashboards , insights , etc.
 ## Projects
 
 ### Project1
-(/Assets/image.png)
+![image](/Assets/image.png)
 
 
 ### Project2
-(/Assets/Global Indicators.png)
-(/Assets/Population by country.png)
+![Global i](/Assets/Global Indicators.png)
+![Population](/Assets/Population by country.png)
