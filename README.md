@@ -1,12 +1,12 @@
 # Data Scientist
 
-##Education
+## Education
 
-##Work Experience
+## Work Experience
 Kpi developer , dashboards , insights , etc.
 
-##Projects
+## Projects
 
-###Project1
+### Project1
 
-###Project2
+### Project2
