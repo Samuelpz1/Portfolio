@@ -1,5 +1,5 @@
 # My portfolio
-Welcome to my data portfolio, where I showcase projects that demonstrate my expertise in data analysis, visualization, and interpretation. Each project reflects my ability to work with diverse datasets, uncover trends, and create actionable insights through compelling visual narratives. From analyzing global video game sales to investigating demographic health indicators, my work highlights a passion for turning raw data into stories that drive decision-making. I am proficient in various data analysis tools and techniques, which allow me to deliver both high-level overviews and detailed deep dives into complex data sets. Through this portfolio, I aim to present my journey as a data analyst and the skills I’ve developed to tackle real-world challenges.
+Welcome to my data portfolio, where I showcase projects that demonstrate my expertise in data analysis, visualization, and interpretation. Each project reflects my ability to work with diverse datasets, uncover trends, and create actionable insights through compelling visual narratives. From analyzing global video game sales to investigating demographic health indicators, my work highlights a passion for turning raw data into stories that drive decision-making.
 
 ## skills
 
