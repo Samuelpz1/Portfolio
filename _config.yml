@@ -1,5 +1,5 @@
 Title: Samuel Padierna
-#Logo:
+Logo: Assets/Picture1_circle.png
 #Description: Text below
 show_downloads: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
