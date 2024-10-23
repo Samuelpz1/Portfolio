@@ -12,5 +12,5 @@ Kpi developer , dashboards , insights , etc.
 
 
 ### Project2
-![Global i](/Assets/Global Indicators.png)
-![Population](/Assets/Population by country.png)
+![Global i](/Assets/Global_Indicators.png)
+![Population](/Assets/Population_by_country.png)
